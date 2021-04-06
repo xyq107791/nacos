@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 02 16:43:15 CST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0178-91c0-32e2-000019a3d1a8 
+on database directory E:\迅雷下载\闪聚支付\day01-项目介绍 Nacos Spring Cloud Alibaba\资料\nacos\data\derby-data with class loader org.springframework.boot.loader.LaunchedURLClassLoader@2e0fa5d3 
+Loaded from jar:file:/E:/迅雷下载/闪聚支付/day01-项目介绍%20Nacos%20Spring%20Cloud%20Alibaba/资料/nacos/target/nacos-server.jar!/BOOT-INF/lib/derby-10.10.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-b10
+user.dir=E:\迅雷下载\闪聚支付\day01-项目介绍 Nacos Spring Cloud Alibaba\资料\nacos\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

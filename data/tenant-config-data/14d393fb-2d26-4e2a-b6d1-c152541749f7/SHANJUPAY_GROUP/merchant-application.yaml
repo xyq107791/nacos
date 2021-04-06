@@ -1,0 +1,17 @@
+server: 
+  servlet: 
+    context-path: /merchant 
+    
+swagger: 
+  enable: true
+
+sms: 
+  url: "http://localhost:56085/sailing" 
+  effectiveTime: 600
+
+oss:
+  qiniu: 
+    url: "" 
+    accessKey: "" 
+    secretKey: "" 
+    bucket: ""

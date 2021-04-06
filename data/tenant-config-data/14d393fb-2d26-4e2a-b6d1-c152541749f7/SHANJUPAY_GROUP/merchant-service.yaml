@@ -1,0 +1,15 @@
+# ??spring?boot?http.yaml??? 
+server: 
+  servlet: 
+    context-path: /merchant-service
+
+spring: 
+  datasource: 
+    druid: 
+      url: jdbc:mysql://127.0.0.1:3306/shanjupay_merchant_service?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&useSSL=false 
+      username: root 
+      password: root
+
+mybatis-plus: 
+  typeAliasesPackage: com.shanjupay.merchant.entity 
+  mapper-locations: classpath:com/shanjupay/*/mapper/*.xml
